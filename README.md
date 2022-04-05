@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# REST app
+Repository created for educational purposes
+
+# Backend
+Written in Java Spring 2.5.7 with Maven 4.0.0. Can be connected with a database.  
+
+
+# Frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the `front` directory, you can run:
 
 ### `npm start`
 
